@@ -7,7 +7,7 @@
 - Features: Each generated PDF includes a unique random code.
 - Use Case: Suitable for creating personalized or uniquely identified PDF documents.
 
-![Test Image](test.png)
+![Test Image](quiz.png)
 ---
 
 ## 2. `auto_email.ipynb`
