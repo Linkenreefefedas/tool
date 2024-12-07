@@ -14,7 +14,7 @@
 - Input: An Excel file containing:
   - Student IDs.
   - Student names.
-  - Number of questions.
+  - Score for each question(1~10).
   - Total scores.
 - Functionality: Creates personalized grade reports for each student.
 - Features:
