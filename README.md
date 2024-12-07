@@ -7,6 +7,7 @@
 - Features: Each generated PDF includes a unique random code.
 - Use Case: Suitable for creating personalized or uniquely identified PDF documents.
 
+![Test Image](test.png)
 ---
 
 ## 2. `auto_email.ipynb`
@@ -21,3 +22,5 @@
   - Supports adding annotations directly into the Excel file.
   - Automatically sends the generated grade reports via email to students.
 - Use Case: Useful for quickly distributing grades and feedback to students.
+
+![Email Image](email.png)
