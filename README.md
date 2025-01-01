@@ -30,3 +30,8 @@
 **File Description:**
 - Input: NDHU eLearning account and password (for login).
 - Functionality: Automates the login process to NDHU eLearning, scrapes the .c program files submitted by students, and saves them locally.
+
+## 4. `auto_check`
+**File Description:**
+- Input: C code.
+- Functionality: The program evaluates the correctness of the input and output of the code and automatically generates a grade report.
